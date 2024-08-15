@@ -1,1 +1,1 @@
-# curso_em_java
+# cursos-em-java
