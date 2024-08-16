@@ -25,5 +25,4 @@ public class Operacao {
         System.out.println(multiplicacao());
     }
 
-
 }
