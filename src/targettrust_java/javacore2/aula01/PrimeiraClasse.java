@@ -10,8 +10,10 @@ public class PrimeiraClasse {
 
         // Modelos feitos através da clase CALCULO (não static)
         Calculos result = new Calculos();
-        result.soma(5, 8);
-        result.subtrair(10, 6);
+        System.out.println(result.soma(5, 8));
+        System.out.println(result.subtrair(10, 6));
+
+        System.out.println("-------------------------------");
 
 
         // Modelo usado atraves de um método static (metodo static só aceita static)
