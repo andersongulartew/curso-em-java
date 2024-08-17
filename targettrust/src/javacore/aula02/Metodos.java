@@ -2,7 +2,7 @@ package javacore.aula02;
 
 public class Metodos {
 
-    // METODO COM RETORNO
+    // MÉTODO COM RETORNO
     public int soma(int a, int b) {
         return a + b;
     }
@@ -13,10 +13,12 @@ public class Metodos {
     public static void main(String[] args) {
         Metodos metodos = new Metodos();
         int resultado = metodos.multi(3, 4);
+        int resultado1 = metodos.soma(5, 3);
         System.out.println(resultado);
+        System.out.println(resultado1);
     }
 
-    // METODO SEM RETORNO
+    // MÉTODO SEM RETORNO
 
     public void imprimir(String mensagem) {
         System.out.println(mensagem);
