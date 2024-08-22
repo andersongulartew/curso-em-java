@@ -1,4 +1,4 @@
-package javacore.aula03.exercicios.array;
+package aula03.exercicios.array;
 
 import java.util.Scanner;
 
