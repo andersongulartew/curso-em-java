@@ -1,4 +1,4 @@
-package aula01;
+package javacore.aula01;
 
 public class BemVindo {
 

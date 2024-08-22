@@ -1,10 +1,11 @@
-package aula01;
+package javacore.aula01;
 
 
 import com.sun.tools.javac.Main;
 
-import static aula01.BemVindo.mostrarSaudacao;
-import static aula01.Calculos.*;
+import static javacore.aula01.BemVindo.mostrarSaudacao;
+import static javacore.aula01.Calculos.*;
+
 
 public class PrimeiraClasse {
     public static void main(String[] args) {
