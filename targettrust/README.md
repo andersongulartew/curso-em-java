@@ -3,7 +3,7 @@
 🚀 Todo dia é dia de aprender 📚👨‍🎓
 
 📈 Mais um curso de aperfeiçoamento para a lista, e cada vez mais conhecimento! 😃
--
+---------
 ### 📚 Conteúdo das Aulas
 Aula 01: Introdução
 
@@ -14,8 +14,8 @@ Aula 03: Controle de Fluxo, Operadores, Arrays
 Aula 04: Uso de For, ForEach, Switch, Continue, Break e Return
 
 #### 🔄 Este repositório será atualizado continuamente! A cada nova aula, novos materiais serão adicionados ao GitHub. Fique atento para acompanhar todas as novidades e aprofundar ainda mais seu conhecimento em Java.
--
-### 📋 Conteúdo Estudado
+---------
+### 📋 O Que Vamos Aprender Juntos
 
 #### 🔍 1. Introdução ao Java
 - Orientação a Objetos
@@ -37,7 +37,7 @@ Aula 04: Uso de For, ForEach, Switch, Continue, Break e Return
 - Gerenciamento de Dependências
 - Gradle e Maven
 - IntelliJ IDEA
-
+---------
 **💡Mantenha-se curioso e continue explorando o mundo do Java!** 
 
 
