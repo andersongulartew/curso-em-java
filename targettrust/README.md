@@ -26,7 +26,7 @@ Aula 04: Uso de For, ForEach, Switch, Continue, Break e Return
 #### 🧪 2. Testes
 - Testes Unitários
 - Pirâmide de Testes
-- 
+  
 #### 🚀 3. Recursos Avançados
 - Classes Abstratas e Interfaces
 - Criação, Disparo e Tratamento de Exceções
