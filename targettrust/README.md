@@ -40,6 +40,9 @@ Aula 04: Uso de For, ForEach, Switch, Continue, Break e Return
 
 **💡Mantenha-se curioso e continue explorando o mundo do Java!** 
 
-Cada conceito aprendido é mais um passo na jornada de se tornar um desenvolvedor melhor. 🚀
+
+🏆 Cada conceito aprendido é mais um passo na jornada de se tornar um desenvolvedor melhor.
+
+
 
 
