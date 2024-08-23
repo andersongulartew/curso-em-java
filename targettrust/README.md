@@ -13,6 +13,8 @@ Aula 03: Controle de Fluxo, Operadores, Arrays
 
 Aula 04: Uso de For, ForEach, Switch, Continue, Break e Return
 
+Aula 05: While, Do While, Incremento, Decremento
+
 #### 🔄 Este repositório será atualizado continuamente! A cada nova aula, novos materiais serão adicionados ao GitHub. Fique atento para acompanhar todas as novidades e aprofundar ainda mais seu conhecimento em Java.
 ---------
 ### 📋 O Que Vamos Aprender Juntos
