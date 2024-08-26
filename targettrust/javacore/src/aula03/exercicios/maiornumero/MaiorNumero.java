@@ -1,4 +1,4 @@
-package javacore.aula03.exercicios.maiornumero;
+package aula03.exercicios.maiornumero;
 
 public class MaiorNumero {
 }

@@ -1,4 +1,4 @@
-package javacore.aula03.exercicios.calcularIMC;
+package aula03.exercicios.calcularIMC;
 
 import java.util.Scanner;
 

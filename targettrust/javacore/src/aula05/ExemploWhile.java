@@ -36,7 +36,7 @@ public class ExemploWhile {
 
 
 
-        int numero = 1;
+        int numero = 0;
 
         // Loop while para imprimir números de 1 a 10
         while (numero <= 10) {

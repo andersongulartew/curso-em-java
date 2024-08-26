@@ -1,4 +1,4 @@
-package javacore.aula03;
+package aula03;
 
 public class aula3 {
    // Descremento  --

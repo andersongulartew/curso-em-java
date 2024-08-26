@@ -1,4 +1,4 @@
-package javacore.aula02.exercicios.calculadora;
+package aula02.exercicios.calculadora;
 
 import static javacore.aula02.exercicios.calculadora.Tela.exibir;
 

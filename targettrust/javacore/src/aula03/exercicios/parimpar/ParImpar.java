@@ -1,4 +1,4 @@
-package javacore.aula03.exercicios.parimpar;
+package aula03.exercicios.parimpar;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package javacore.aula01;
+package aula01;
 
 public class Calculos {
 
