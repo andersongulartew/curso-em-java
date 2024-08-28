@@ -1,22 +1,16 @@
-package br.com.targettrust;
+package aula06.src.test.java.br.com.targettrust;
 
-import org.assertj.core.data.Percentage;
-import org.junit.jupiter.api.Disabled;
+import aula06.src.main.java.br.com.targettrust.CalculoIMC;
+
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
-import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.CsvSource;
-import org.junit.jupiter.params.provider.MethodSource;
-import org.junit.jupiter.params.provider.ValueSource;
 
-import java.util.stream.IntStream;
-import java.util.stream.Stream;
-
-import static org.assertj.core.api.Assertions.assertThat;
 import static org.junit.jupiter.api.Assertions.*;
 
-class CalculoIMCTest {
 
+
+class CalculoIMCTest {
 
     @Test
     void calcularIMC() {
@@ -29,7 +23,7 @@ class CalculoIMCTest {
     void calcularIMC_scenario2() {
         CalculoIMC calculadoraIMC = new CalculoIMC();
         var result = calculadoraIMC.calcularIMC(82.0f, 1.75f, 2);
-        assertThat(result).isCloseTo(26.78d, Percentage.withPercentage(0.1));
+        assertEquals(26.78, result,0.01);
 
     }
 
@@ -64,6 +58,4 @@ class CalculoIMCTest {
         var result = calculoIMC.classificarIMC(17.0f);
         assertEquals("Você está magro(a)", result);
     }
-
-
 }

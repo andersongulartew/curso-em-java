@@ -1,15 +1,15 @@
-package br.com.targettrust;
+package aula06.src.main.java.br.com.targettrust;
 
 public class Calculadora {
     public double somar(double a, double b){
         return a + b;
     }
 
-    private double multiplicar(double a, double b){
+    public double multiplicar(double a, double b){
         return a * b;
     }
 
-     double subtrair(double a, double b){
+     public double subtrair(double a, double b){
         return a - b;
     }
 }

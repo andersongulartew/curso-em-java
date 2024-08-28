@@ -1,4 +1,4 @@
-package br.com.targettrust;
+package aula06.src.main.java.br.com.targettrust;
 
 public enum clasificacaoIMC {
     MAGRO,

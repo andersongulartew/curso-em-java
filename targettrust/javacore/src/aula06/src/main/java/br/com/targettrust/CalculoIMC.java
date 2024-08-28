@@ -1,4 +1,4 @@
-package br.com.targettrust;
+package aula06.src.main.java.br.com.targettrust;
 
 import java.math.BigDecimal;
 import java.util.Scanner;

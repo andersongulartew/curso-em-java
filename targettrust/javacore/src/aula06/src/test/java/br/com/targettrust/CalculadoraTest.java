@@ -1,5 +1,6 @@
-package br.com.targettrust;
+package aula06.src.test.java.br.com.targettrust;
 
+import aula06.src.main.java.br.com.targettrust.Calculadora;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -29,6 +30,15 @@ class CalculadoraTest {
         double resultado = calc.subtrair(3.00, 2.00);
 
         assertEquals(1.00, resultado);
+    }
+
+    @Test
+    void givenTwoDoubleNumbers_whenMultiplicar_thenReturnCorrectResult() {
+        Calculadora calc = new Calculadora();
+
+        double resultado = calc.multiplicar(2.00, 3.00);
+
+        assertEquals(6.00, resultado);
     }
 
 }
