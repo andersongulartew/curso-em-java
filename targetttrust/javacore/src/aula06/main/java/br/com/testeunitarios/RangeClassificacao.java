@@ -1,6 +1,5 @@
 package aula06.main.java.br.com.testeunitarios;
 
-import aula04.ClassificacaoIMC;
 
 import java.util.Objects;
 
