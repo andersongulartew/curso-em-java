@@ -5,17 +5,24 @@
 📈 Mais um curso de aperfeiçoamento para a lista, e cada vez mais conhecimento! 😃
 ---------
 ### 📚 Conteúdo das Aulas
-Aula 01: Introdução                                              |
+Aula 01: Introdução 
 
-Aula 02: Tipos Primitivos, Constantes e Métodos                  |
+Aula 02: Tipos Primitivos, Constantes e Métodos                  
 
-Aula 03: Controle de Fluxo, Operadores, Arrays                   |
+Aula 03: Controle de Fluxo, Operadores, Arrays                   
 
-Aula 04: Uso de For, ForEach, Switch, Continue, Break e Return   |
+Aula 04: Uso de For, ForEach, Switch, Continue, Break e Return   
 
-Aula 05: While, Do While, Incremento, Decremento                 |
+Aula 05: While, Do While, Incremento, Decremento                 
 
-Aula 06: testes unitarios                                        |
+Aula 06: testes unitarios                                        
+
+Aula 07: String, StringBuffer, StringBuilder                     
+
+Aula 08: Wrapper, Enum
+
+Aula 09: Orientação a Objetos
+
 
 #### 🔄 Este repositório será atualizado continuamente! A cada nova aula, novos materiais serão adicionados ao GitHub. Fique atento para acompanhar todas as novidades e aprofundar ainda mais seu conhecimento em Java.
 ---------
