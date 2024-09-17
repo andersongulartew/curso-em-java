@@ -1,5 +1,6 @@
 package aula06.test.java.org.targettrust;
 
+import aula06.main.java.org.targettrust.IMC;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
