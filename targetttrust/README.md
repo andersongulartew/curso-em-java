@@ -23,8 +23,18 @@ Aula 08: Wrapper, Enum
 
 Aula 09: Orientação a Objetos
 
+Aula 10 e 11: Interface , Classe abstrata, Herança
 
-#### 🔄 Este repositório será atualizado continuamente! A cada nova aula, novos materiais serão adicionados ao GitHub. Fique atento para acompanhar todas as novidades e aprofundar ainda mais seu conhecimento em Java.
+Aula 12: Overload, Coleções, Set, List , Map, Queue
+
+Aula 13: Generic, Optional, Stream, Lambda
+
+Aula 14: Ordenação de coleções
+
+Aula 15: Exception
+
+### Este curso inclui um projeto chamado "Snack Machine", que será disponibilizado em um repositório separado. Nesse repositório, você encontrará duas versões distintas do projeto, cada uma implementada com abordagens e técnicas diferentes. O objetivo é permitir a comparação entre as versões e explorar variações no desenvolvimento.
+
 ---------
 ### 📋 O Que Vamos Aprender Juntos
 
